@@ -2,4 +2,4 @@
 
 Repozitorij za kolegij Programiranje za internet
 
-Repozitorij za projekt na nastavi
+** Repozitorij za projekt na nastavi **
